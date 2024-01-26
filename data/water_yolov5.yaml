@@ -1,0 +1,7 @@
+train: VOC2/train/images
+val: VOC2/valid/images
+test: VOC2/test/images
+
+nc: 1
+names: ['water']
+

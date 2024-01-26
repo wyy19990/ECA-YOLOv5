@@ -1,0 +1,8 @@
+train: VOCdevkit3/images/train  # 16551 images
+val: VOCdevkit3/images/val  # 4952 images
+
+# number of classes
+nc: 3
+
+# class names
+names: ['aircraft', 'oiltank', 'overpass']
