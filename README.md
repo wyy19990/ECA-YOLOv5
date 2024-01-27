@@ -1,5 +1,5 @@
-# 面向海事巡航场景的ECA-Yolov5
-# ECA Yolov5 for Maritime Cruise Scenarios
+
+# Maritime Object Detection in Aerial Image
 
 
 
