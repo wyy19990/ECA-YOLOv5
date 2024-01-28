@@ -22,13 +22,13 @@
 <summary>Install</summary>
 
 [**Python>=3.6.0**](https://www.python.org/) is required with all
-[requirements.txt](https://github.com/ppogg/YOLOv5-Lite/blob/master/requirements.txt) installed including
+[requirements.txt](https://github.com/wyy19990/Maritime-Object-Detection-in-Aerial-Image/requirements.txt) installed including
 [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/):
 <!-- $ sudo apt update && apt install -y libgl1-mesa-glx libsm6 libxext6 libxrender-dev -->
 
 ```bash
-$ git clone https://github.com/wyy19990/ECA-YOLOv5
-$ cd ECA-YOLOv5
+$ git clone https://github.com/wyy19990/Maritime-Object-Detection-in-Aerial-Image
+$ cd Maritime-Object-Detection-in-Aerial-Image
 $ pip install -r requirements.txt
 ```
 
@@ -37,7 +37,7 @@ $ pip install -r requirements.txt
 <details>
 <summary>Inference with detect.py</summary>
   `detect.py` runs inference on a variety of sources, downloading models automatically from
-the [latest ECA-YOLOv5 release](https://github.com/wyy19990/ECA-YOLOv5/releases) and saving results to `runs/detect`.
+the [latest ECA-YOLOv5 release](https://github.com/wyy19990/Maritime-Object-Detection-in-Aerial-Image/releases) and saving results to `runs/detect`.
 
 ```bash
 $ python detect.py --source 0  # webcam
